@@ -1,0 +1,70 @@
+.body {
+    background-color: #fff;
+}
+
+.nav {
+    background-color: #fff;
+    display:flex;
+}
+
+.text-content{
+    margin:10px;
+}
+.text-content a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.title{
+    text-align: center;
+}
+.title h1{
+    padding:5px;
+}
+
+#currentDate{
+    margin-left: 200px;
+}
+
+#flexAll{
+    display:flex;
+}
+
+#counterW {
+    margin:0px 350px;
+    display:flex;
+}
+#displayNumber{
+    display:flex;
+}
+.number{
+    margin: 0px 5px;
+}
+#increment{
+    background-color: #fff;
+}
+#decrement{
+    background-color: #fff;
+}
+
+#saveBtn{
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+#savedData{
+    margin-left: 200px;
+    margin-top:5px;
+}
+
+.flexThem{
+    display:flex;
+}
+.date{
+    margin-left: 200px;
+    margin-right:40px;
+}
+.wl{
+    margin: 0px 350px;
+}
